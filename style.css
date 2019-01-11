@@ -1,0 +1,23 @@
+title {
+  color: DarkOlive;
+  font-size: 40px;
+ }
+
+h1 {
+  color: red;
+  font-size: 40px;
+  font-family: Georgia, serif;
+}
+
+h2 {
+  color: #ff4f00
+  font-size: 20px;
+}
+
+.hero {
+  	background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fwallpapercave.com%2Fwp%2FB50sLZS.jpg&imgrefurl=https%3A%2F%2Fwallpapercave.com%2Freally-cool-desktop-backgrounds&docid=wlDAweLOJe_EsM&tbnid=WP4KEfS7pbUC4M%3A&vet=10ahUKEwis48uZlObfAhUGM6wKHZgzADkQMwiYASghMCE..i&w=1920&h=1080&bih=792&biw=1536&q=cool%20backgrounds&ved=0ahUKEwis48uZlObfAhUGM6wKHZgzADkQMwiYASghMCE&iact=mrc&uact=8);
+	background-position: center top;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+}
